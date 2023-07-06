@@ -1,0 +1,241 @@
+.text-left{
+    font-size: 17px !important;
+   
+   
+}
+.nav-item{
+    color: rgb(194, 183, 183) !important;
+}
+.nav-item:hover{
+    color: rgb(255, 255, 255) !important;
+}
+.brand{
+    color: white !important;
+    font-weight:600;
+   
+}
+.active{
+    color: white !important;
+}
+.pie{
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.btn1{
+    margin-right: 20px;
+    border: none;
+    outline: none;
+    color: white;
+  
+}
+.btn1:hover{
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(179, 174, 174);
+}
+.btn2{
+    color: rgb(27, 24, 24);
+    border: white;
+    outline: white;
+    background-color: white;
+    border-radius: 20px;
+    
+}
+.btn2:hover{
+    background-color: rgb(50, 31, 223);
+}
+.headtitle{
+    font-size: 40px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+
+    margin-top: 120px;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+
+    
+    background: -webkit-linear-gradient(-0deg, rgb(0, 36, 238), rgb(168, 10, 173),rgb(139, 201, 24));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.bi-check-circle-fill{
+    margin-left: 30px;
+    
+}
+.head-support{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 40px;
+}
+.saerch{
+    background-color: rgba(255, 255, 255, 0);
+    width: 500px;
+    border: 1px solid gray;
+    padding: 13px;
+    border-radius: 50px;
+}
+.mail{
+    background-color: rgba(240, 248, 255, 0) !important;
+    border: 0px;
+    outline: 0px;
+}
+.search-head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 30px;
+    
+}
+.Rhead{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(14, 25, 36) ;
+}
+.paragraph{
+    margin-top: 30px;
+    line-height: 1.7;
+    font-size: 17px;
+}
+.activebox{
+    margin-top: 40px;
+}
+.userbox-holder{
+    height: 100px;
+    width: 100px;
+    box-shadow: rgba(50,50,93,0.25) 0px 30px 60px -12px, rgba(0,0,0,0.3) 0px 18px 36px -18px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box-text{
+    font-size: 25px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(-0deg, rgb(238, 0, 178), rgb(168, 10, 173),rgb(241, 145, 198));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.box-subname{
+    font-weight: 500;
+    margin-top: 10px;
+}
+.content-active-holder{
+    margin-left: 190px !important;
+}
+.regular{
+    background-color: rgb(233, 233, 233);
+    
+    color: rgb(27, 25, 39);
+    height: 100px;
+    width: 100px;
+    
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.t-regular{
+    font-size: 25px;
+    font-weight: 600;
+    background: -webkit-linear-gradient(-0deg, rgb(238, 0, 178), rgb(168, 10, 173),rgb(241, 145, 198));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgb(38, 31, 54);
+}
+.image-active{
+    height: 500px;
+    width: 250px;
+    margin-left: 30%;
+}
+.wireframe{
+    height: 490px;
+    width: auto;
+    margin-left: 80px;
+
+}
+.rfature{
+    color: white;
+}
+.f-content{
+    margin-left: 80px;
+   
+}
+.indicator{
+    margin: 0px;
+    color: rgb(0, 81, 255);
+}
+.ma-cont{
+    color: white;
+}
+.ctr-layout{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.btn-ctr{
+    background-color: rgb(27, 25, 39);
+    border: 0px;
+    outline: 0px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.ctr-box{
+    padding: 30px;
+    height: 250px;
+    width: 300px;
+    background-color: rgb(27, 25, 39);
+    
+    margin-right: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.ctr-box-hld{
+    margin-top: 100px;
+}
+.ctr-circle{
+    
+color: rgb(84, 84, 226);
+font-size: 20px;
+
+    
+  
+    
+}
+.box-hld{
+    font-weight: 500;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.box-para{
+    color: white;
+    
+}
+.ctr-body{
+    background-color: rgb(250, 250, 250);
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 150px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+   
+}
